@@ -3,8 +3,8 @@
   padding: 40px 20px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 2fr;
-  gap: 200px;
+  grid-template-columns: 1fr 1fr;
+  gap: 100px;
 }
 
 .experiencia .subtitulo {
